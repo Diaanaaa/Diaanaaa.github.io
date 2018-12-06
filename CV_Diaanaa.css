@@ -1,0 +1,275 @@
+
+h3{
+	color:  #296ac6;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+
+h1, p{ 
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+} 
+h4{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.europass img{
+	height: 60px;
+  width: 220px;
+  position:relative;
+  left: 100px;
+  top:35px;
+  float:left;
+}
+
+
+.nosk{
+	 position: relative;
+     left: 130px; 
+	 top: 55px;
+	 color: #479ed8;
+	 font-size: 20px;
+	 font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.st1{
+	position: relative;
+	
+	top:15px;
+	}
+	
+	.st5{
+	position: relative;
+	left:150px;
+	top:15px;
+	}
+	
+	h1{
+	 position: relative;
+     right: 800px;
+	 	}
+	
+	.icon1 {
+  height: 40px;
+  width: 60px;
+  position:relative;
+  top:65px;
+  left: 150px;
+  
+	}
+	.icon2{
+	 position:relative;
+     height: 30px;
+     width: 15px; 
+	 top:103px;
+     left: 192px;
+	 	}
+	
+	.icon3{
+	height: 25px;
+     width: 25px;
+	 position:relative;
+	 top: 147px;
+	 left:105px;
+	 	}
+	
+	.sakuminfo{
+		 position: relative;
+		 left:380px;
+	top:15px;
+    	}
+		hr.new1 {
+			width: 70%;
+	position: relative;
+	left:90px;
+	top:-10px;
+	border-style: solid;
+    border-width: 1.5px;
+	border-color: #479ed8;
+  }
+  
+  .par1{
+	  position: relative;
+	  left:195px; 
+	  top:10px;
+	   font-size: 20px;
+  }
+  .prof1{
+	  position: relative;
+	  right:480px;
+	  top:10px;
+	  font-size: 22px;
+  }
+  .apraksts{
+	  font-size: 15px;
+	  position: relative;
+	  left:205px;
+	  top:-40px;
+  }
+  
+  .prof2{
+	  position: relative;
+	  right:420px;
+	  top:23px;
+	  font-size: 22px;
+  }
+   .par2{
+	  position: relative;
+	  left:15px; 
+	  top:12px;
+	   font-size: 20px;
+  }
+    .prof3{
+	  position: relative;
+	  right:320px;
+	  top:23px;
+	  font-size: 22px;
+  }
+    .par3{
+	  position: relative;
+	  left:20px; 
+	  top:10px;
+	   font-size: 20px;
+  }
+  
+  .prof4{
+	  position: relative;
+	  right:335px;
+	  top:9px;
+	  font-size: 22px;
+  }
+  .par4{
+	  position: relative;
+	  left:200px; 
+	  top:5px;
+	   font-size: 20px;
+  }
+  .st2{
+	position: relative;
+	
+	left:20px;
+	top:15px;
+	}
+	
+	.prof5{
+	  position: relative;
+	  right:280px;
+	  top:8px;
+	  font-size: 22px;
+  }
+  
+    .par5{
+	  position: relative;
+	  left:200px; 
+	  top:-30px;
+	   font-size: 20px;
+  }
+  
+   .par6{
+	  position: relative;
+	  left:40px; 
+	  top:15px;
+	   font-size: 20px;
+  }
+  
+   .st3{
+	position: relative;
+	left:35px;
+	top:15px;
+	}
+	
+	.prof6{
+	  position: relative;
+	  right:480px;
+	  top:12px;
+	  font-size: 22px;
+  }
+  
+   .st4{
+	position: relative;
+	left:50px;
+	top:-15px;
+	}
+	
+
+
+table, th, td {
+	border-style:solid;
+	height:30px;
+  border-color: #C8C8C8;
+ }
+table{
+	 border-right-style:none;
+	  border-left-style:none;
+	   text-align: center;
+	   border-collapse: collapse;
+}
+tr.lines td{
+    border-left: 0px solid;
+    border-right: 0px solid;
+	 
+}
+.noo{
+	
+	border-right-style:none;
+}
+.noo2{
+	border-left-style:none;
+}
+.krasa{
+		color:  #296ac6;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	
+}
+.noform{
+		position: relative;
+	left:40px;
+}
+.valodas{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 20px;
+	position: relative;
+	top:62px;
+	
+}
+.zils{
+	color:#1c4d9e;
+	font-size: 12px;
+	position: relative;
+	left:200px;
+}
+.noteikm{
+	font-size: 12px;
+	position: relative;
+	left:200px;
+}
+.atvr {
+	
+	 
+	width:60%;
+    background-color: #ddfaff;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
+
+.active, .atvr:hover {
+    background-color: #a4e6f2;
+}
+
+.saturs {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #effcff;
+	width:57.5%;
+ 
+}
+.liel{
+	position:relative;
+	left:130px;
+}
